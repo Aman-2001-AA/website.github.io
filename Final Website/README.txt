@@ -1,5 +1,4 @@
-Dimension by Aman Anand
-html5up.net | @ajlkn
+Demo Website created by Aman Anand as a part of ASE Project.
 
 Demo images* courtesy of Unsplash, a radtastic collection of CC0 (public domain) images
 you can use for pretty much whatever.
